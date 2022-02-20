@@ -1,2 +1,4 @@
 git init;
 status??
+
+pushing git first time
